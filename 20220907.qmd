@@ -129,7 +129,6 @@ A [mock technical briefing](https://timtaylor.github.io/demo-monkeypox/) for mon
   services.
 
 ::: {.notes}
-TODO - talk about make, containers and git
 - clone repo
 - explain containers, a lightweight (relative to full vm) way to provision a runtime
   for our code. mention podman / docker and singularity
@@ -139,6 +138,7 @@ TODO - talk about make, containers and git
 - run `make report` on the current repo.
 - show benefit of version control - checkout v1.0 and rerun `make report` 
 - go back to main
+- TODO - talk about make, containers and git
 :::
 
 
